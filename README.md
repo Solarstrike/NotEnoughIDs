@@ -1,4 +1,4 @@
-# NotEnoughIDs
+# NotEnoughIDs (Solarstrike's alternate fork)
 
 Extends hardcoded ID limits.
 
