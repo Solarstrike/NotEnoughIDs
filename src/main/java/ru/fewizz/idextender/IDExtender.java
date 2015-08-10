@@ -13,7 +13,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 
-@Mod(modid = "notenoughIDs", name = "NotEnoughIDs", version = "1.0.0")
+@Mod(modid = "notenoughIDs2", name = "NotEnoughIDs-Solarstrike", version = "2.0")
 public class IDExtender
 {
     @EventHandler
